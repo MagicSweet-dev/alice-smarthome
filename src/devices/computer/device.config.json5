@@ -1,0 +1,11 @@
+{
+  id: 'computer',
+  name: 'Компьютер',
+  capabilities: [
+    {
+      type: 'devices.capabilities.on_off',
+      retrievable: true
+    }
+  ],
+  type: 'devices.types.other'
+}
